@@ -1,4 +1,4 @@
-# new_assignent_11
+# Photo Gallary App
 
 A new Flutter project.
 
